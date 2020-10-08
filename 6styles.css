@@ -1,0 +1,28 @@
+/*
+img {
+  position: absolute;
+  left: 110px;
+  top: 10px;
+  z-index: -1;
+}*/
+
+.container{
+ 
+  text-align: center;
+  line-height: 1px;
+}
+
+.topleft{
+  position:absolute;
+  top:90px;
+  left:230px;
+  color:white;
+  font-size: 23px;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#para1{
+  font-size: 12px;
+   font-family: 'Roboto Condensed', sans-serif;
+}

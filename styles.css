@@ -1,0 +1,26 @@
+body {
+  /*
+  background-color: grey;*/
+}
+h1{
+  text-align: center;
+}
+
+a:link,a:visited{
+background-color: green;
+padding: 12px 20px;
+color: white;
+text-decoration: none;
+text-align: center;
+}
+
+a:hover,a:active{
+  background-color: blue;
+}
+
+
+
+a.two:link {color:#ff0000;}
+a.two:visited {color:#0000ff;}
+a.two:hover {font-size:150%;}
+

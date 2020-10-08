@@ -1,0 +1,22 @@
+body{
+  background-color: green;
+}
+
+#backImage1{
+background-color: green;
+border-style:4px solid red;
+color: yellow;
+font-family: "Sofia";
+font-size: 1em;
+font-style:  normal;
+font-weight: bold;
+font-variant: small-caps;;
+}
+
+a{
+  color:hotpink;
+}
+
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {font-size:150%;}
